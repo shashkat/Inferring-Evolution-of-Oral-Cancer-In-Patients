@@ -1,0 +1,3 @@
+# sites that were filtered due to copy-number states > max_CN
+filtered:  0
+fraction:  0.0
